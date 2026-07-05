@@ -1,4 +1,4 @@
-# VoIP Monitoring Stack (FreeSWITCH + OpenSIPS + Observability)
+# VoIP Monitoring Stack (FreeSWITCH + Observability)
 
 A complete **Docker-based VoIP monitoring and observability platform** for FreeSWITCH and SIP infrastructure using **Prometheus, Grafana, Loki, HOMER, Heplify Server, Node Exporter, and FreeSWITCH Exporters**.
 
